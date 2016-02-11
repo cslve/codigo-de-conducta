@@ -13,6 +13,9 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 * No se tolerará la discriminación de ningún tipo.
 * Se permiten debates y discusiones siempre regidos por un buen y correcto uso del lenguaje (escrito u oral) y de ninguna forma aquel que degrade o agreda a cualquiera de los miembros.
 * No se permitirán debates o discusiones de temas donde implícita o explícitamente se esté haciendo alusión a una idiología política o religiosa.
+* Cualquier toma de decisiones debe estar presidida por:
+  * Una convocatoria de día y medio por los 3 medios principales de comunicaciones que tiene la **CSLve** (a saber: Telegram, IRC y Slack)
+  * Una decisión, previa al comienzo de la reunión o debate, de la metodología a seguir así como los mecanismos para lograr el acuerdo en las decisiones a tomar.
 
 ## 2. Consecuencias del comportamiento inaceptable
 

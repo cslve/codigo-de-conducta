@@ -34,12 +34,22 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 ## 3. Políticas de moderación
 
 
-## 4. Contacto 
+## 4. Recomendaciones
+
+Con la finalidad de mantener un sano ambiente se recomienda a los participantes lo siguiente:
+
+* Mantenerse en el tema de discusión.
+* Ser civilizado y considerado. Evite ser grosero o irrespetuoso y responda siempre manteniendo un alto nivel de civismo y respeto.
+* Asumir en lo posible *buena fe* de la contraparte. En el caso de la comunicación escrita es fácil interpretar de manera incorrecta cualquier expresión. Se recomienda asumir que las otras partes presentes en la discusión actúan de buena fe y solicitar aclaratorias en caso de confusión para evitar malentendidos.
+* Ser colaborativo. En caso que algún miembro requiera asistencia o información en relación algun tema tratado colaborar en la medida de lo posible.
+* Respetar las decisiones alcanzadas como comunidad. En caso de no estar de acuerdo con alguna decisión seguir los canales regulares para reabrir el debate.
+
+## 5. Contacto 
 
 
-## 5. Licencia y atribución
+## 6. Licencia y atribución
 
 
-## 6. Firmantes
+## 7. Firmantes
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 - Eduard Lucena (**@X3MLinux**)

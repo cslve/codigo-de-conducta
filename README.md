@@ -16,6 +16,14 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 * Cualquier toma de decisiones debe estar precedida por:
   * Una convocatoria de día y medio por los 3 medios principales de comunicaciones que tiene la **CSLve** (a saber: Telegram, IRC y Slack)
   * Una decisión, previa al comienzo de la reunión o debate, de la metodología a seguir así como los mecanismos para lograr el acuerdo en las decisiones a tomar.
+* Para las reuniones cuyo objetivo sea difundir un mensaje al colectivo o tomar algún tipo de desición se debe realizar y publicar minuta de la misma, la cual debe contener:
+  * Los temas o puntos tratados en la reunión indicando su(s) proponente(s) en caso que se trate de una propuesta de acción de algún participante.
+  * Decisiones alcanzadas para cada punto tratado durante la reunión y la forma en la cual se alcanzaron (acuerdo, consenso, votación) junto con los detalles pertinentes (número de votos, etc.)
+  * Listado de asistentes a la reunion.
+  * Documentos anexos
+    * Registro completo de los mensajes enviados al canal donde se desarrolla la reunión durante el transcurso de la misma.
+    * Documentos discutidos o URL de los mismos.
+* Todas las minutas de reunión deberán almacenarse de manera pública en un único repositorio perteneciente a *cslve* en github.
 
 ## 2. Consecuencias del comportamiento inaceptable
 

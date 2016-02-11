@@ -51,5 +51,8 @@ Con la finalidad de mantener un sano ambiente se recomienda a los participantes 
 
 
 ## 7. Firmantes
+
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
+
 - Eduard Lucena (**@X3MLinux**)
+- Luis Salazar (l4sh)

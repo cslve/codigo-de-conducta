@@ -26,3 +26,8 @@ El incumplimiento de las normas establecidas en el apartado anterior traerá com
 
 
 ## 5. Licencia y atribución
+
+
+## 6. Firmantes
+#### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
+- Eduard Lucena (**@X3MLinux**)

@@ -10,8 +10,9 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 
 ## 1. Normativa
 
+* En los debates y discusiones debe procurarse el buen uso del lenguaje (escrito u oral), manteniendo siempre empatía por los demás compañeros/as de grupo. Se recomienda una comunicación precisa y concisa.
 * No se tolerará la discriminación de ningún tipo.
-* Se permiten debates y discusiones siempre regidos por un buen y correcto uso del lenguaje (escrito u oral) y de ninguna forma aquel que degrade o agreda a cualquiera de los miembros.
+* No se permitirán debates en donde se haga uso de expresiones que menoscaben el honor o que degrade/agreda a cualquiera de los miembros.
 * No se permitirán debates o discusiones de temas donde implícita o explícitamente se esté haciendo alusión a una ideología política o religiosa.
 * Cualquier toma de decisiones debe estar presidida por:
   * Una convocatoria de día y medio por los 3 medios principales de comunicaciones que tiene la **CSLve** (a saber: Telegram, IRC y Slack)
@@ -19,7 +20,7 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 
 ## 2. Consecuencias del comportamiento inaceptable
 
-* El incumplimiento de las normas establecidas en el apartado anterior traerá como consecuencia la suspensión temporal o la exclusión definitiva de este grupo.
+* El incumplimiento de las normas establecidas en el apartado anterior traerá como consecuencia la suspensión temporal o la exclusión definitiva de este grupo, en cualquiera de sus medios de participación, según se considere necesario.
 * Aquella persona que se encuentre en estado de suspensión temporal, se verá imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o comitiva.
 
 
@@ -35,3 +36,4 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 ## 6. Firmantes
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 - Eduard Lucena (**@X3MLinux**)
+- Luis Martínez (**@LuisAlejandro**)

@@ -24,18 +24,27 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 * Aquella persona que se encuentre en estado de suspensión temporal, se verá imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o comitiva.
 
 
-## 3. Políticas de moderación
+## 3. Cortesía
+
+Sea cortés y amable con los demás miembros de la comunidad. Nunca insulte o sea grosero con nadie. Se debe evitar la discriminación bajo cualquier circunstancia bajo los fundamentos del bien común, equidad y respeto.
+Los Miembros de esta comunidad deben dar a otros miembros y al público en general un trato digno, cortés, cordial y tolerante. Está obligado a reconocer y considerar en todo momento los derechos, libertades y cualidades inherentes a la condición humana.
+Conserve la netiqueta. [1]
 
 
-## 4. Contacto 
+## 4. Políticas de moderación
 
 
-## 5. Licencia y atribución
+## 5. Contacto 
 
 
-## 6. Firmantes
+## 6. Licencia y atribución
+
+
+## 7. Firmantes
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 - Eduard Lucena (**@X3MLinux**)
 - Luis Martínez (**@LuisAlejandro**)
 - Jesús Contreras (**@Chuda**)
 
+
+[1][[http://netiqueta.org|http://netiqueta.org]]

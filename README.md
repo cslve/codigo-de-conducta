@@ -21,6 +21,7 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 ## 2. Consecuencias del comportamiento inaceptable
 
 * El incumplimiento de las normas establecidas en el apartado anterior traerá como consecuencia la suspensión temporal o la exclusión definitiva de este grupo, en cualquiera de sus medios de participación, según se considere necesario.
+* Serán expulsados las individuos que formen parte de una discusión que implique comportamiento inaceptable, es decir, el que incurrió en la falta como el que la provoco.
 * Aquella persona que se encuentre en estado de suspensión temporal, se verá imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o comitiva.
 
 

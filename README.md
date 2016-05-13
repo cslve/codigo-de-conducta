@@ -46,6 +46,6 @@ Conserve la netiqueta. [1]
 - Eduard Lucena (**@X3MLinux**)
 - Luis Martínez (**@LuisAlejandro**)
 - Jesús Contreras (**@Chuda**)
-
+- José Leonel Subero (@arawako)
 
 [1][[http://netiqueta.org|http://netiqueta.org]]

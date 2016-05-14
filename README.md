@@ -20,8 +20,6 @@ Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán 
 
 ## 2. Consecuencias del comportamiento inaceptable
 
-* El incumplimiento de las normas establecidas en el apartado anterior traerá como consecuencia la suspensión temporal o la exclusión definitiva de este grupo, en cualesquiera de sus medios de participación, según se considere necesario.
-* Aquella persona que se encuentre en estado de suspensión temporal, se verá imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o comitiva.
 
 
 ## 3. Cortesía
@@ -33,6 +31,16 @@ Conserve la netiqueta. [1]
 
 ## 4. Políticas de moderación
 
+* El incumplimiento de las normativa en (1) tendrá como consecuencia
+  consecuencia la suspensión temporal ó exclusión definitiva de este
+  grupo, en cualquiera de sus medios de participación, según se considere
+  necesario.
+* Serán expulsados las individuos que formen parte de una discusión que
+  implique comportamiento inaceptable, es decir, el que incurrió en la falta
+  como el que la provoco.
+* Aquella persona que se encuentre en estado de suspensión temporal, se verá
+  imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o
+  comitiva.
 
 ## 5. Contacto
 
@@ -41,10 +49,13 @@ Conserve la netiqueta. [1]
 
 
 ## 7. Firmantes
+
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
+
 - Eduard Lucena (**@X3MLinux**)
 - Luis Martínez (**@LuisAlejandro**)
 - Jesús Contreras (**@Chuda**)
-
+- José Leonel Subero (@arawako)
+- Nhomar Hernández(@arawako)
 
 [1][[http://netiqueta.org|http://netiqueta.org]]

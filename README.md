@@ -63,7 +63,7 @@ exclusión o suspensión del miembro que infrinja este acuerdo.
   libertades y cualidades inherentes a la condición humana. Conserve la
   netiqueta. [1]
 
-## 3 Comportamiento inaceptable
+## 3. Comportamiento inaceptable
 
 * Comportamientos inaceptables incluyen: intimidación, acoso, abuso,
   discriminación, comunicación despectiva o degradante o acciones por cualquier
@@ -87,9 +87,9 @@ exclusión o suspensión del miembro que infrinja este acuerdo.
   imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o
   comitiva.
 
-## 3. Cortesía
+## 5. Cortesía
 
-Sea cortés y amable con los demás miembros de la comunidad. Nunca insulte o sea
+* Sea cortés y amable con los demás miembros de la comunidad. Nunca insulte o sea
 grosero con nadie. Se debe evitar la discriminación bajo cualquier
 circunstancia fundamentándose en el bien común, la equidad y el respeto. Los
 miembros de esta comunidad deben dar a otros miembros y al público en general
@@ -126,7 +126,7 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 
 ## 6. Contacto 
 
-## 4. Políticas de moderación
+## 7. Políticas de moderación
 
 * El incumplimiento de las normativa en (1) tendrá como consecuencia
   consecuencia la suspensión temporal ó exclusión definitiva de este
@@ -139,17 +139,11 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
   imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o
   comitiva.
 
-## 7. Licencia y atribución
+## 8. Licencia y atribución
 
-## 5. Contacto
+## 9. Contacto
 
-
-## 6. Licencia y atribución
-
-
-## 7. Firmantes
-
-## 8. Firmantes
+## 10. Firmantes
 
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 

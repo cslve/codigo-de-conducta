@@ -42,26 +42,6 @@ motivo sanciones para aquel o aquellos que las infrinjan; así mismo se
 establece el derecho de denunciar ante todos y pedir mediante el consenso la
 exclusión o suspensión del miembro que infrinja este acuerdo.
 
-## 1. Normativa
-
-* En los debates y discusiones debe procurarse el buen uso del lenguaje
-  (escrito u oral), manteniendo siempre empatía por los demás compañeros de
-  grupo. Se recomienda una comunicación precisa y concisa.
-* No se tolerará la discriminación de ningún tipo.
-* No se permitirán debates en donde se haga uso de expresiones que menoscaben
-  el honor, que degrade o agreda a cualquiera de los miembros.
-* No se permitirán debates o discusiones de temas donde implícita o
-  explícitamente se esté haciendo alusión a una ideología política, religiosa o
-  de connotaciones sexuales.
-* Cualquier toma de decisiones debe estar presidida por:
-  * Una convocatoria de día y medio por los 3 medios principales de
-    comunicaciones que tiene la **CSLve** (a saber: Telegram, IRC y Slack)
-  * Una decisión, previa al comienzo de la reunión o debate, de la metodología
-    a seguir así como los mecanismos para lograr el acuerdo en las decisiones a
-    tomar.
-  * Los desacuerdos, sociales y técnicos, son normales, pero no se permitirá
-    que persistan y se infecten dejando a otros confundidos de la dirección
-    establecida.
 
 ## 2. Comportamiento esperado
 

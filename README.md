@@ -38,7 +38,7 @@ exclusión o suspensión de aquel miembro que infrija este acuerdo.
 
 Los miembros actuarán conforme a lo establecido en esta guía y lo defenderán en
 función del beneficio colectivo, asumiendo que la violación de las normas será
-motivo sanciones para aquel o aquellos que las infrinjan; así mismo se
+motivo suficiente para sanciones para aquel o aquellos que las infrinjan; así mismo se
 establece el derecho de denunciar ante todos y pedir mediante el consenso la
 exclusión o suspensión del miembro que infrinja este acuerdo.
 
@@ -141,6 +141,8 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 
 ## 8. Licencia y atribución
 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="https://purl.org/dc/terms/" property="dct:title">Código De Conducta</span> por <span xmlns:cc="https://creativecommons.org/ns#" property="cc:attributionName">CSLve</span> se distribuye bajo:<br/> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
+
 ## 9. Contacto
 
 ## 10. Firmantes
@@ -152,5 +154,6 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 - Jesús Contreras (**@Chuda**)
 - José Leonel Subero (@arawako)
 - Nhomar Hernández (@nhomar)
+- Héctor A. Mantellini (@xombra)
 
 [1][[http://netiqueta.org|http://netiqueta.org]]

@@ -152,5 +152,6 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 - Jesús Contreras (**@Chuda**)
 - José Leonel Subero (@arawako)
 - Nhomar Hernández (@nhomar)
+- Jorge escalona (**jorgescalona**)
 
 [1][[http://netiqueta.org|http://netiqueta.org]]

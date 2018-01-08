@@ -30,6 +30,9 @@ Sea cortés y amable con los demás miembros de la comunidad. Nunca insulte o se
 Los Miembros de esta comunidad deben dar a otros miembros y al público en general un trato digno, cortés, cordial y tolerante. Está obligado a reconocer y considerar en todo momento los derechos, libertades y cualidades inherentes a la condición humana.
 Conserve la netiqueta. [1]
 
+## 4. De los participantes del canal.
+* Todo participante debe identificarse y ser conocido de por lo menos dos miem bros activos del canal, para de esta manera evitar los insultos y bullying, escudandose en el anonimato. 
+* Todo participante debe hacer presencia actuva en el canal o madios de difusión de la comunidad, si no participa cuaalquiera de los administradores puede moderarlo o sacarlo del canal.
 
 ## 4. Políticas de moderación
 

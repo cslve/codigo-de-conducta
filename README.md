@@ -151,7 +151,6 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 
-- Eduard Lucena (**@X3MLinux**)
 - Luis Martínez (**@LuisAlejandro**)
 - Jesús Contreras (**@Chuda**)
 - José Leonel Subero (@arawako)

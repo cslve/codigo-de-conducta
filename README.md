@@ -125,7 +125,7 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
   alto.
   
 ## 6. De los participantes del canal.
-* Todo participante debe identificarse y ser conocido de por lo menos dos miem bros activos del canal, para de esta manera evitar los insultos y bullying, escudandose en el anonimato. 
+* Todo participante debe identificarse y ser conocido de por lo menos dos miembros activos del canal, para de esta manera evitar los insultos y bullying, escudandose en el anonimato. 
 * Todo participante debe hacer presencia actuva en el canal o madios de difusión de la comunidad, si no participa cuaalquiera de los administradores puede moderarlo o sacarlo del canal.
 
 ## 7. Contacto 

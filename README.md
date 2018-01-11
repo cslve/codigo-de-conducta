@@ -30,7 +30,8 @@ exclusión o suspensión de aquel miembro que infrija este acuerdo.
 * No se permitirán debates en donde se haga uso de expresiones que menoscaben
   el honor o que degraden o agredan a cualesquiera de los miembros.
 * No se permitirán debates o discusiones de temas donde implícita o
-  explícitamente se esté haciendo alusión a una ideología política o religiosa.
+  explícitamente se esté haciendo alusión a una ideología política o religiosa 
+  que no esté comprometida con el Software Libre.
 * Cualquier toma de decisiones debe estar precedida por:
     * Una convocatoria con una antelación mínima de un día y medio (1 1/2 día) por
       los 3 medios principales de comunicaciones que tiene la **CSLve** (a saber:
@@ -156,5 +157,6 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
 - Jesús Contreras (**@Chuda**)
 - José Leonel Subero (@arawako)
 - Nhomar Hernández (@nhomar)
+- Jacinto Dávila (@Jacintodavila)
 
 [1][[http://netiqueta.org|http://netiqueta.org]]

@@ -123,10 +123,14 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
   otros miembros de la comunidad. Si un administrador y/o moderador crea una
   situación inadecuada, este será cuestionado y sancionado con un estándar más
   alto.
+  
+## 6. De los participantes del canal.
+* Todo participante debe identificarse y ser conocido de por lo menos dos miem bros activos del canal, para de esta manera evitar los insultos y bullying, escudandose en el anonimato. 
+* Todo participante debe hacer presencia actuva en el canal o madios de difusión de la comunidad, si no participa cuaalquiera de los administradores puede moderarlo o sacarlo del canal.
 
-## 6. Contacto 
+## 7. Contacto 
 
-## 7. Políticas de moderación
+## 8. Políticas de moderación
 
 * El incumplimiento de las normativa en (1) tendrá como consecuencia
   consecuencia la suspensión temporal ó exclusión definitiva de este
@@ -139,11 +143,11 @@ comunidad en los canales de comunicación (a saber: Telegram, IRC y Slack).
   imposibilitada a representar a la **CSLve** en ninguna reunión, grupo o
   comitiva.
 
-## 8. Licencia y atribución
+## 9. Licencia y atribución
 
-## 9. Contacto
+## 10. Contacto
 
-## 10. Firmantes
+## 11. Firmantes
 
 #### Colocar tu nombre acá será suficiente para indicar que se aceptan los términos del código.
 
